@@ -12,7 +12,7 @@ public class RectangleDemo {
         rectangle.setWidth(5);
         resize( rectangle);
         printLengthAndWidth(rectangle);
-        System.out.println("-----------------");
+        System.out.println("--------------");
         Square square = new Square();
         square.setSide(10);
         //测试
